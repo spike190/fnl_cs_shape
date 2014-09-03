@@ -2,9 +2,6 @@
 #ifndef TRAJECTORY	
 #define TRAJECTORY
 
-
-
-
 #include "includes_and_definitions.h"
 
 struct Wrapper {
